@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background:#e9ecef;
+}
+.cardbody-btns {
+    margin: 0 auto !important;
+}
+
+.card.shadow.border-0.card.card_dio {
+    padding: 30px !important;
+}
+
+.showdnd {
+    font-size: 0.1rem;
+    float: right;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}

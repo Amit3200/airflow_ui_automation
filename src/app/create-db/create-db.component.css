@@ -1,0 +1,15 @@
+.cardbody-btns {
+    margin: 0 auto !important;
+}
+
+.card_dio {
+    padding: 30px;
+}
+
+.showdnd {
+    font-size: 0.1rem;
+    float: right;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
